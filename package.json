@@ -7,9 +7,17 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.21.2",
     "joi": "^17.13.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaqib-yfz/vidly-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aaqib-yfz/vidly-/issues"
+  },
+  "homepage": "https://github.com/aaqib-yfz/vidly-#readme",
+  "description": ""
 }
